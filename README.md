@@ -4,5 +4,6 @@ This project is an Excel-based Management Dashboard designed to provide a simple
 The dashboard will provide a clear overview of Sales, Profit, Products, Orders, Customer Order, Status, Payment,Fulfilment, and Geographic Performance in one place. It will present important business information through simple charts, graphs, and KPIs, enabling Ravi to quickly understand the overall business performance without requiring technical knowledge. The dashboard will help Ravi monitor sales trends, profit performance, product and order performance, customer order
 status, payment methods, fulfilment status, and geographic performance, supporting better business understanding and decision-making.
 
-<img width="656" height="338" alt="image" src="https://github.com/user-attachments/assets/a0997588-3488-4257-8556-a4b88ba1674e" />
+<img width="704" height="302" alt="Screenshot 2026-10-07 195255" src="https://github.com/user-attachments/assets/7655468d-20e8-4390-833a-9f5fb96936f3" />
+
 <img width="656" height="338" alt="Screenshot 2026-10-07 195431" src="https://github.com/user-attachments/assets/942dee2b-8e68-47fc-b1e6-ea1cc87064fc" />
