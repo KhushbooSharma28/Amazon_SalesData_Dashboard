@@ -1,1 +1,8 @@
 # Amazon_SalesData_Dashboard
+Project Overview
+This project is an Excel-based Management Dashboard designed to provide a simple and easy-to-understand overview of business performance. The dashboard was created for Manoj, who needs to present business performance to his manager, Ravi, a non-technical stakeholder. The objective is to bring important business information into one dashboard so that management can quickly understand Sales, Profit, Products, Orders, Customer Order Status, Payment, Fulfilment, and Geographic Performance.The main objective of this project is to design a simple and easy-to-understand management dashboard for Manoj to submit to his manager, Ravi, who comes from a non-technical background.
+The dashboard will provide a clear overview of Sales, Profit, Products, Orders, Customer Order, Status, Payment,Fulfilment, and Geographic Performance in one place. It will present important business information through simple charts, graphs, and KPIs, enabling Ravi to quickly understand the overall business performance without requiring technical knowledge. The dashboard will help Ravi monitor sales trends, profit performance, product and order performance, customer order
+status, payment methods, fulfilment status, and geographic performance, supporting better business understanding and decision-making.
+
+<img width="656" height="338" alt="image" src="https://github.com/user-attachments/assets/a0997588-3488-4257-8556-a4b88ba1674e" />
+<img width="656" height="338" alt="Screenshot 2026-10-07 195431" src="https://github.com/user-attachments/assets/942dee2b-8e68-47fc-b1e6-ea1cc87064fc" />
